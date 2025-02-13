@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Passionate developer weaving code into elegant solutions | Exploring the realms of philosophy with a heart devoted to Imam Ali ع| 👨‍💻✨” #Developer #ImamAli
+Passionate front-end developer crafting clean, efficient, and scalable code. Lifelong learner, constantly refining skills in modern web technologies to build seamless, high-performance user experiences. 🚀
 
 
 ## 🌐 Socials:
